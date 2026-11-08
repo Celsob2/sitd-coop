@@ -1,0 +1,27 @@
+# Material proprietário ou derivado direto do jogo: não versionar nem publicar.
+original/
+trabalho/
+trabalho-steam/
+extraido/
+analise/
+testes/
+testes-logs/
+backup/
+manifesto-original.json
+*.evidence.json
+
+# Pacotes para jogadores (zip) vão na página de Releases do GitHub, não no repositório.
+dist/
+*.zip
+
+# Saídas de compilação e logs.
+bin/
+obj/
+*.log
+
+# Lixo de sistema/editor.
+Thumbs.db
+.DS_Store
+.vs/
+.vscode/
+graphify-out/

@@ -1,0 +1,6 @@
+# Binarios compilados vao nas Releases, nao no repositorio / build output goes to Releases
+bin/
+obj/
+dist/
+*.zip
+*.log
